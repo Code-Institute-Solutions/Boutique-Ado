@@ -1,1 +1,1 @@
-# Boutique-Ado Allauth Setup 2
+# Boutique-Ado Authentication & Authorisation Allauth Setup 2

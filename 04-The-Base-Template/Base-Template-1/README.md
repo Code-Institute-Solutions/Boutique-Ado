@@ -1,1 +1,1 @@
-# Boutique-Ado Base Template 1
+# Boutique-Ado The Base Temaplate Base Template 1
